@@ -6,3 +6,6 @@
 
 # Ignore Marco Geoestadístico (too big for GitHub)
 Common/MarcoGeoestadístico
+
+# Ignore day 2 data (too big for GitHub)
+02_Lines/Data
