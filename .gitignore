@@ -13,3 +13,6 @@ Common/MarcoGeoestadístico
 # Ignore day 4 data and geojson outputs
 04_Hexagons/Data
 04_Hexagons/Out/*.geojson
+
+# Ignore day 6 data
+06_Red/Data/*
